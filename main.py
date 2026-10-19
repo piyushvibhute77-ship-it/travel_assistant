@@ -33,7 +33,7 @@ st.write("LET'S BEGIN 🥳,PACK UP YOUR BAGS🎒")
 destination=st.text_input("Enter Your destination")
 days=st.number_input("Enter No. of Days of trip",min_value=2,max_value=30)
 budget_type=st.selectbox("Select your budget type",["Luxurry","Moderate","Budgeted"])
-travel_type=st.selectbox("Select your travel type",["Family","Freins","Solo"])
+travel_type=st.selectbox("Select your travel type",["Family","Freinds","Solo"])
 spot=st.multiselect("Slect preffereed spot for travel ",["Moountains🗻","Beaches🏖️","Modern🏙️","Religious🙇🙏","Historical⚔️"])
 
 
