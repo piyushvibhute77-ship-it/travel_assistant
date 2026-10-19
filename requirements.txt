@@ -1,0 +1,5 @@
+streamlit
+google-gemini
+python-dotenv
+
+# pip install -r requirements.txt

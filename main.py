@@ -16,7 +16,6 @@ def set_web_background(url):
     </style>
     """
     st.markdown(style, unsafe_allow_html=True)
-
 set_web_background("https://i.pinimg.com/736x/c7/14/95/c714956f249813fe569f75fbd2df286a.jpg")
 
 
