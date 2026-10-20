@@ -16,7 +16,7 @@ def set_web_background(url):
     </style>
     """
     st.markdown(style, unsafe_allow_html=True)
-set_web_background("https://img.magnific.com/premium-photo/picture-lake-mount-shuksan-washington_328046-23090.jpg?semt=ais_hybrid&w=740&q=80")
+set_web_background("https://i.pinimg.com/736x/3a/98/15/3a981509d6738f94c82ba103c7a5930a.jpg")
 st.set_page_config(
     page_title="Piyush's App",
     page_icon="🚀",  # Can be an emoji, a URL, or a local image path
